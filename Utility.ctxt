@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Utility
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Utility\ here.\r\n\ uses\ same\ info\ for\ property\ but\ with\ different\ getRent\ method\ \r\n\r\n\ @author\ (Johnathan\ Evans,\ Daniel\ Jones)\r\n\ @3/26/19)\r\n
+comment1.params=n
+comment1.target=Utility(java.lang.String)
+comment2.params=numOwned\ diceRoll
+comment2.target=int\ getRent(int,\ int)
+numComments=3

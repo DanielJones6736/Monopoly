@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=Board()
+comment1.text=\r\n\ initializes\ spots\ with\ hard\ data\ for\ all\ locations\r\n\ has\ data\ like\ type,\ color,\ price,etc.\r\n
+comment2.params=
+comment2.target=Space[]\ getSpots()
+comment3.params=n
+comment3.target=Space\ getSpot(int)
+numComments=4

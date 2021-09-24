@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Rail
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rail\ here.\r\n\ uses\ same\ info\ for\ property\ but\ with\ different\ getRent\ method\ \r\n\r\n\ @author\ (Johnathan\ Evans,\ Daniel\ Jones)\r\n\ @3/29/19\r\n
+comment1.params=n
+comment1.target=Rail(java.lang.String)
+comment2.params=numOwned
+comment2.target=int\ getRent(int)
+numComments=3

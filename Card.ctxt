@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Card\ here.\r\nused\ for\ chance\ and\ community\ chst\ cards\r\n\r\n\ @author\ (Johnathan\ Evans,\ Daniel\ Jones)\r\n\ @version\ (4/11/2019)\r\n
+comment1.params=d\ c\ s\ v
+comment1.target=Card(java.lang.String,\ boolean,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getSignature()
+comment3.params=
+comment3.target=boolean\ isChance()
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+comment5.params=
+comment5.target=int\ getValue()
+numComments=6
